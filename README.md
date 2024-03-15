@@ -1,2 +1,2 @@
 # Gender-detection
-It is a Python project which Detects the Gender of a person with webcam of a device.
+This Project involves the development of a system capable of automatically identifying the gender of individuals from images or video streams. This project typically utilizes machine learning techniques, particularly computer vision algorithms, to analyze visual characteristics such as facial features associated with different genders.
